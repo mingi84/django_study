@@ -6,7 +6,7 @@
 >python -m pip install --upgrade pip
 >**- django 4.1.6**
 >pip install django==4.1.6 (설치는 가상환경 설정 이후 가상환경 위에 설치)
-
+>개발툴 Visual Studio Code 최신버전
 
 *1. 가상환경 설정*
 - python -m venv mingstagram
