@@ -49,3 +49,9 @@ TEMPLATES = [
     },
 ]
 ```
+
+*setting.py에서 SECRET_KEY 노출로 인한 보안문제 해결
+#환경변수 추가
+export INSTA_SECRET_KEY='본인의 고유 비밀 키 추가'
+# 환경변수 확인 명령
+$ echo $INSTA_SECRET_KEY
