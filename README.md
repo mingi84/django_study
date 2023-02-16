@@ -9,7 +9,7 @@
 >개발툴 Visual Studio Code 최신버전
 
 *1. 가상환경 설정*
-- python -m venv mingstagram
+- ProjectRootFolder에서 실행>python -m venv mingstagram
 
 이후 작업은 가상환경 위에서 작업
 
